@@ -86,13 +86,12 @@ header {
 
 .header-left {
   float: left;
-  
-}
-
-.header-left h1{
-  color:white;
   width: 124px;
   margin-top: 20px;
+}
+
+.header-left h{
+  color:white;
 }
 
 .header-right {
