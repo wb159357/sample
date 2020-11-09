@@ -84,13 +84,11 @@ header {
   z-index: 10;
 }
 
-.logo {
-  width: 124px;
-  margin-top: 20px;
-}
-
 .header-left {
   float: left;
+  color:white;
+  width: 124px;
+  margin-top: 20px;
 }
 
 .header-right {
